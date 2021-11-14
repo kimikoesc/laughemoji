@@ -1,7 +1,7 @@
 {
-  "name": "jsutility",
+  "name": "laughemoji",
   "version": "1.0.0",
-  "description": "",
+  "description": "A laugh emoji utility",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
